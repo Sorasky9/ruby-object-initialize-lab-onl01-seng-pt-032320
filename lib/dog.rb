@@ -7,7 +7,6 @@ end
 
 
 
-fido = Dog.new("Fido")
 
 
 end
