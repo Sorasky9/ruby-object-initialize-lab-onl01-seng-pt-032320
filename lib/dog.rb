@@ -6,7 +6,7 @@ end
 
 
 
-fido = Dog.new("Fido")
+fido = Dog.new(name)
 
 
 end
